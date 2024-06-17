@@ -16,7 +16,7 @@ De standaarden zijn nog zeer beperkt opgenomen. Een deel van de standaarden zull
 # Leeruitkomsten per niveau vs leeruitkomsten per studiejaar
 Studiejaren en niveaus lopen niet altijd gelijk op. HBO-ICT van Windesheim hanteert voor Software Engineering de volgende indeling:
 
-|------------------------|----------------|------------------------------------|
+
 |studiejaar              | beoordeling    | aanbod en feedback                 |
 |------------------------|----------------|------------------------------------|
 |studiejaar 1            | HBO-i niveau 1 ||
